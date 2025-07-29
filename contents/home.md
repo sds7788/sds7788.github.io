@@ -19,6 +19,28 @@ Recently, I am working on my own independent attempt to fully train a language m
 🕒 **2023.8 - 2027.6**  
 📍 **University of Science and Technology of China**  
 
+#### Skills
+
++ **💻 Programming Languages**
+
+​	Python, C
+
++ **📄 Markup & Scripting**
+
+​	LaTeX, HTML, CSS, JavaScript
+
++ **🛠️ Tools & Technologies**
+
+​	Git, Github, MySQL, Linux, Docker
+
++ **📚 Framework & Libraries**
+
+​	PyTorch, NumPy, Pandas, Scikit-learn,
+
++ 🧠 **LLM / MLLM Development**
+
+   Reinforcement Learning, Evaluation
+
 
 #### Misc
 
@@ -28,4 +50,5 @@ Recently, I am working on my own independent attempt to fully train a language m
 #### Contact
 
 * I am very enthusiastic about discussing academic issues or any interesting project-related topics! If you'd like to engage in a discussion, feel free to contact me via email at any time. 
-* ✉️ [suidesong@mail.ustc.edu.cn](suidesong@mail.ustc.edu.cn)
+* ✉️ suidesong@mail.ustc.edu.cn
+

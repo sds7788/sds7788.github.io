@@ -1,8 +1,10 @@
 
-- **Dean's List (All Semester)** at University of Minnesota Twin Cities.
+- University of Science and Technology of China 2023 Outstanding Student Scholarship Bronze Award
 
-- Special Corporate Scholarships, 2023. **(1/30)**
+- University of Science and Technology of China 2024 Outstanding Student Scholarship Bronze Award
 
-- School Special Academic Scholarship, 2023.**(1%)**
+- Outstanding Communist Youth League Members of the University of Science and Technology of China 2023-2024
 
-- First-Class Academic Scholarship, 2022.**(8%)**
+- Outstanding Communist Youth League Members of the University of Science and Technology of China 2024-2025
+
+- Outstanding Communist Youth League Cadres of the University of Science and Technology of China in 2023-2024
