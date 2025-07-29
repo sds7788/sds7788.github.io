@@ -19,27 +19,18 @@ Recently, I am working on my own independent attempt to fully train a language m
 🕒 **2023.8 - 2027.6**  
 📍 **University of Science and Technology of China**  
 
-#### Skills
+#### My Skills
 
-+ 💻 **Programming Languages**
++ 💻 **Programming Languages**: Python, C
 
-​	Python, C
++ 📄 **Markup & Scripting**: LaTeX, HTML, CSS, JavaScript
 
-+ 📄 **Markup & Scripting**
++ 🛠️ **Tools & Technologies**: Git, Github, MySQL, Linux, Docker
 
-​	LaTeX, HTML, CSS, JavaScript
++ 📚 **Framework & Libraries**: PyTorch, NumPy, Pandas, Scikit-learn,
 
-+ 🛠️ **Tools & Technologies**
++ 🧠 **LLM / MLLM Development**: Reinforcement Learning, Evaluation
 
-​	Git, Github, MySQL, Linux, Docker
-
-+ 📚 **Framework & Libraries**
-
-​	PyTorch, NumPy, Pandas, Scikit-learn,
-
-+ 🧠 **LLM / MLLM Development**
-
-    Reinforcement Learning, Evaluation
 
 
 #### Misc
