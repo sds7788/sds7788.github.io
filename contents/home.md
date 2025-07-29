@@ -21,25 +21,25 @@ Recently, I am working on my own independent attempt to fully train a language m
 
 #### Skills
 
-+ **💻 Programming Languages**
++ 💻 **Programming Languages**
 
 ​	Python, C
 
-+ **📄 Markup & Scripting**
++ 📄 **Markup & Scripting**
 
 ​	LaTeX, HTML, CSS, JavaScript
 
-+ **🛠️ Tools & Technologies**
++ 🛠️ **Tools & Technologies**
 
 ​	Git, Github, MySQL, Linux, Docker
 
-+ **📚 Framework & Libraries**
++ 📚 **Framework & Libraries**
 
 ​	PyTorch, NumPy, Pandas, Scikit-learn,
 
 + 🧠 **LLM / MLLM Development**
 
-   Reinforcement Learning, Evaluation
+    Reinforcement Learning, Evaluation
 
 
 #### Misc
