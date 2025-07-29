@@ -1,5 +1,5 @@
 # Desong Sui's personal homepage
 
-## statement
+## Statement
 
 My personal homepage template is based on JerryYin777/JerryYin777.github.io
