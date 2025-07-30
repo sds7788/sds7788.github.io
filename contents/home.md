@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sds7788)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/tb8bey)
 
-==**「各有因缘莫羡人」**==——愿自己早日认清自我，找到真正热爱的方向，实现属于自己的价值。
+***「各有因缘莫羡人」**——愿自己早日认清自我，找到真正热爱的方向，实现属于自己的价值。*
 
 
 #### Biography
