@@ -143,7 +143,7 @@
     </section>
     <!-- Service -->
 
-
+    <audio id="background-music" src="static/assets/千百度-许嵩.mp3" loop></audio>
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
@@ -171,6 +171,44 @@
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
+
+
+
+    <script type="text/javascript" src="static/js/scripts.js"></script>
+    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // 获取audio元素
+            const audio = document.getElementById('background-music');
+            
+            // 设置一个标记，确保音乐只尝试播放一次
+            let hasInteracted = false;
+
+            // 定义一个函数来播放音乐
+            const playMusic = () => {
+                if (!hasInteracted) {
+                    // 尝试播放音乐
+                    // .play() 方法会返回一个Promise
+                    audio.play().then(() => {
+                        // 播放成功
+                        console.log("背景音乐已开始播放。");
+                    }).catch(error => {
+                        // 播放失败（例如，在某些严格的浏览器策略下）
+                        console.error("背景音乐播放失败:", error);
+                    });
+                    hasInteracted = true;
+                    // 成功播放一次后，移除监听器，避免重复触发
+                    document.removeEventListener('click', playMusic);
+                    document.removeEventListener('touchstart', playMusic);
+                }
+            };
+
+            // 为点击和触摸事件添加监听器
+            document.addEventListener('click', playMusic);
+            document.addEventListener('touchstart', playMusic);
+        });
+    </script>
 
 </body>
 
